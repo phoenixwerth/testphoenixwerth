@@ -9,8 +9,8 @@
 }
 #box{
     background-color:#7EB0A5;
-   
-   max-width:290px;
+    border: white 15px solid;
+    height: 300px;
    }
 .footer{
     height: 150px;
